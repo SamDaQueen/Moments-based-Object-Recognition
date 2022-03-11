@@ -1,0 +1,2 @@
+D:\Documents\Northeastern\Courses\PRCV-5330\MinGW\mingw64\bin\ar.exe qc libProcessing.a CMakeFiles/Processing.dir/processing.cpp.obj
+D:\Documents\Northeastern\Courses\PRCV-5330\MinGW\mingw64\bin\ranlib.exe libProcessing.a

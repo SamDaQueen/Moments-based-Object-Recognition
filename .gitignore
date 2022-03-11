@@ -1,0 +1,14 @@
+/.vscode
+/bounding-box.jpg
+/build
+/CMakeCache.txt
+/CMakeFiles
+/cmake_install.cmake
+/filters.jpg
+/grassfire.jpg
+/growing-shrinking.jpg
+/Makefile
+/region-features.jpg
+/region-growing.jpg
+/thresholding.jpg
+/two-pass.jpg
